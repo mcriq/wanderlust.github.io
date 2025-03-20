@@ -1,14 +1,18 @@
-# HTML & CSS Lab: Build a Travel Blog
+# HTML & CSS Layout Lab: Build a Travel Blog
 
 ## Overview
-In this lab, you'll create a simple travel blog called "Wanderlust" using HTML and CSS. This project will help you practice fundamental web development concepts including semantic HTML, CSS layouts, responsive design, and styling techniques.
+In this lab, you'll create a page for a travel blog called ["Wanderlust"](https://mcriq.github.io/wanderlust.github.io/) using HTML and CSS. This project will help you practice fundamental concepts of HTML, CSS, responsive design, and styling techniques. You probably won't be able to finish in the lab, and that's okay! You'll want to finish it outside of the lab when you have time. If you'd like, you can even reach out to one of the leads to critique your code once you're done!
 
 ## Learning Objectives
 - Apply semantic HTML elements to structure a web page
-- Use CSS Flexbox for page layout 
+- Use Flexbox and Grid for page layout 
 - Implement a responsive design that works on different screen sizes
 - Practice CSS styling techniques for text, borders, and backgrounds
 - Add simple interactivity with CSS hover effects
+- The end result does not have to match the example *exactly*. In fact it's will be better if it's a little different. Try to only look at the html and css in the example if you're stuck!
+
+## Assets
+You can find the images I used in a compressed folder called "images" in the directory for this lab.
 
 ## Requirements
 
@@ -84,15 +88,7 @@ If you finish early, try these enhancements:
 - [MDN Web Docs: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN Web Docs: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Grid Cheatsheet](https://grid.malven.co/)
+- [CSS Flexbox Cheatsheet](https://flexbox.malven.co/)
 - [Google Fonts](https://fonts.google.com/)
 - Free images: [Unsplash](https://unsplash.com/) or [Pexels](https://www.pexels.com/)
-
-## Submission
-When complete, submit your HTML and CSS files.
-
-**Grading criteria:**
-- Correct use of semantic HTML elements
-- Proper implementation of CSS styling techniques
-- Responsive design that works on different screen sizes
-- Visual appeal and attention to detail
-- Code organization and cleanliness
